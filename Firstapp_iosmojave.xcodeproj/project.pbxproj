@@ -12,6 +12,12 @@
 		3F01CCBE24384091007EF127 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F01CCBC24384091007EF127 /* Main.storyboard */; };
 		3F01CCC024384098007EF127 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F01CCBF24384098007EF127 /* Assets.xcassets */; };
 		3F01CCC324384098007EF127 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F01CCC124384098007EF127 /* LaunchScreen.storyboard */; };
+		3F0E5DC1243C153F00175497 /* in-by-fatma-ozbulal-on-cicekler-flower-11563225398ndcgghxwo2.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F0E5DBE243C153D00175497 /* in-by-fatma-ozbulal-on-cicekler-flower-11563225398ndcgghxwo2.png */; };
+		3F0E5DC2243C153F00175497 /* sm_5b444d8fc41de.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3F0E5DBF243C153E00175497 /* sm_5b444d8fc41de.jpg */; };
+		3F0E5DC3243C153F00175497 /* watercolor-flower-png-pack.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F0E5DC0243C153E00175497 /* watercolor-flower-png-pack.png */; };
+		3F9C62E8243C1C4600FAFD50 /* red-flower-madangfx-nse.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F9C62E7243C1C4500FAFD50 /* red-flower-madangfx-nse.png */; };
+		3F9C62EA243C280500FAFD50 /* Page2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F9C62E9243C280500FAFD50 /* Page2ViewController.swift */; };
+		3F9C62EC243C2D0300FAFD50 /* page3ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F9C62EB243C2D0300FAFD50 /* page3ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +28,12 @@
 		3F01CCBF24384098007EF127 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3F01CCC224384098007EF127 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3F01CCC424384098007EF127 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F0E5DBE243C153D00175497 /* in-by-fatma-ozbulal-on-cicekler-flower-11563225398ndcgghxwo2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "in-by-fatma-ozbulal-on-cicekler-flower-11563225398ndcgghxwo2.png"; sourceTree = "<group>"; };
+		3F0E5DBF243C153E00175497 /* sm_5b444d8fc41de.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sm_5b444d8fc41de.jpg; sourceTree = "<group>"; };
+		3F0E5DC0243C153E00175497 /* watercolor-flower-png-pack.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "watercolor-flower-png-pack.png"; sourceTree = "<group>"; };
+		3F9C62E7243C1C4500FAFD50 /* red-flower-madangfx-nse.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "red-flower-madangfx-nse.png"; sourceTree = "<group>"; };
+		3F9C62E9243C280500FAFD50 /* Page2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page2ViewController.swift; sourceTree = "<group>"; };
+		3F9C62EB243C2D0300FAFD50 /* page3ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = page3ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +52,10 @@
 			children = (
 				3F01CCB724384091007EF127 /* Firstapp_iosmojave */,
 				3F01CCB624384091007EF127 /* Products */,
+				3F0E5DBE243C153D00175497 /* in-by-fatma-ozbulal-on-cicekler-flower-11563225398ndcgghxwo2.png */,
+				3F0E5DBF243C153E00175497 /* sm_5b444d8fc41de.jpg */,
+				3F0E5DC0243C153E00175497 /* watercolor-flower-png-pack.png */,
+				3F9C62E7243C1C4500FAFD50 /* red-flower-madangfx-nse.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -54,6 +70,8 @@
 		3F01CCB724384091007EF127 /* Firstapp_iosmojave */ = {
 			isa = PBXGroup;
 			children = (
+				3F9C62E9243C280500FAFD50 /* Page2ViewController.swift */,
+				3F9C62EB243C2D0300FAFD50 /* page3ViewController.swift */,
 				3F01CCB824384091007EF127 /* AppDelegate.swift */,
 				3F01CCBA24384091007EF127 /* ViewController.swift */,
 				3F01CCBC24384091007EF127 /* Main.storyboard */,
@@ -122,9 +140,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F0E5DC2243C153F00175497 /* sm_5b444d8fc41de.jpg in Resources */,
+				3F0E5DC1243C153F00175497 /* in-by-fatma-ozbulal-on-cicekler-flower-11563225398ndcgghxwo2.png in Resources */,
 				3F01CCC324384098007EF127 /* LaunchScreen.storyboard in Resources */,
 				3F01CCC024384098007EF127 /* Assets.xcassets in Resources */,
 				3F01CCBE24384091007EF127 /* Main.storyboard in Resources */,
+				3F0E5DC3243C153F00175497 /* watercolor-flower-png-pack.png in Resources */,
+				3F9C62E8243C1C4600FAFD50 /* red-flower-madangfx-nse.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -136,7 +158,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				3F01CCBB24384091007EF127 /* ViewController.swift in Sources */,
+				3F9C62EA243C280500FAFD50 /* Page2ViewController.swift in Sources */,
 				3F01CCB924384091007EF127 /* AppDelegate.swift in Sources */,
+				3F9C62EC243C2D0300FAFD50 /* page3ViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
